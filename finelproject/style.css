@@ -1,0 +1,18 @@
+body {
+    background-image: url(Music.jpg);
+    background-size: cover;
+}
+
+.card {
+    margin-top: 100px;
+}
+
+.card-img-top {
+    height: 200px !important;
+    width: 200px !important;
+    border-radius: 100%;
+    margin-left: 110px;
+    margin-top: 30px;
+    object-fit: cover;
+    border: 6px solid gray;
+}
